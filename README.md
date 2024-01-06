@@ -20,7 +20,7 @@ Make sure you have Node.js and npm installed on your machine.
 3. Install dependencies:
    ```bash
    > npm install
-## Installation
+## Running the App
 
 1. Start the development server:
    ```bash
