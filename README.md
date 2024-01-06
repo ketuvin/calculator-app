@@ -33,3 +33,6 @@ Make sure you have Node.js and npm installed on your machine.
 - To use scientific functions, click on the scientific function buttons (sin, cos, tan, sqrt, pow).
 - Use parentheses for grouping expressions.
 - The calculator has dark and light modes, toggle them by clicking on the "Dark Mode" button.
+
+![image](https://github.com/ketuvin/calculator-app/assets/33052653/bcf9359a-8f02-42bf-984e-88c34b553752)
+
